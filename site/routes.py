@@ -1,1 +1,1 @@
-# Aqui ficrão as rotas da aplicação
+# Aqui ficarão as rotas da aplicação
